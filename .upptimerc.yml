@@ -5,24 +5,33 @@ repo: status # The name of this repository
 sites:
   - name: Main Website
     url: https://teaclient.net
+    assignees: 
+      - Eveeifyeve
+      - Coffee-Nerd
   - name: Docs Site
     url: https://docs.teaclient.net
-
+    assignees: 
+      - Eveeifyeve
+      - Coffee-Nerd
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.teaclient.net
-  # baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: TeaClient Status
+  introTitle: TeaClient New Status Page
+  introMessage: Wellcome to our status page 
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Any issues? Contact us.
+      href: https://discord.com/invite/ejFTe4Hfnc
+commitMessages:
+  readmeContent: "chore: update summary in readme"
+  summaryJson: "chore: update status summary"
+  statusChange: "chore: $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
+  graphsUpdate: "chore: update graphs"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
