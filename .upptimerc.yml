@@ -20,7 +20,7 @@ status-website:
   cname: status.teaclient.net
   logoUrl: https://avatars.githubusercontent.com/u/136329178?s=200&v=4
   name: TeaClient Status
-  introTitle: Status:
+  introTitle: Status
   navbar:
     - title: Status
       href: /
