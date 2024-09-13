@@ -18,11 +18,9 @@ sites:
 
 status-website:
   cname: status.teaclient.net
-  # baseurl: /
   logoUrl: https://avatars.githubusercontent.com/u/136329178?s=200&v=4
   name: TeaClient Status
-  introTitle: TeaClient New Status Page
-  introMessage: Wellcome to our status page 
+  introTitle: Status:
   navbar:
     - title: Status
       href: /
@@ -35,6 +33,3 @@ commitMessages:
   summaryJson: "chore: update status summary"
   statusChange: "chore: $SITE_NAME is $STATUS ($RESPONSE_CODE in $RESPONSE_TIME ms)"
   graphsUpdate: "chore: update graphs"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
