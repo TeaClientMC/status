@@ -19,7 +19,7 @@ sites:
 status-website:
   cname: status.teaclient.net
   # baseurl: /
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/136329178?s=200&v=4
   name: TeaClient Status
   introTitle: TeaClient New Status Page
   introMessage: Wellcome to our status page 
