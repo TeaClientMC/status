@@ -1,6 +1,6 @@
 [
   {
-    "name": "TeaClient Website",
+    "name": "Main",
     "url": "https://teaclient.net",
     "icon": "https://icons.duckduckgo.com/ip3/teaclient.net.ico",
     "slug": "main",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 124,
-    "timeWeek": 136,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 148,
+    "timeDay": 195,
+    "timeWeek": 161,
+    "timeMonth": 145,
+    "timeYear": 148,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 153,
-    "timeDay": 101,
-    "timeWeek": 143,
-    "timeMonth": 154,
-    "timeYear": 153,
+    "time": 157,
+    "timeDay": 175,
+    "timeWeek": 158,
+    "timeMonth": 155,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   }
 ]
