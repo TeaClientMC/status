@@ -33,6 +33,8 @@
     "timeWeek": 164,
     "timeMonth": 162,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-03": 0
+    }
   }
 ]
