@@ -9,13 +9,6 @@ sites:
     assignees: 
       - Eveeifyeve
       - Coffee-Nerd
-  - name: Docs
-    url: https://docs.teaclient.net
-    slug: docs
-    assignees: 
-      - Eveeifyeve
-      - Coffee-Nerd
-
 status-website:
   cname: status.teaclient.net
   logoUrl: https://avatars.githubusercontent.com/u/136329178?s=200&v=4
